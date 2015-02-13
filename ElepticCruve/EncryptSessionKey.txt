@@ -1,0 +1,6 @@
+EC on GF(P):
+A = -3
+ B = 64210519e59c80e70fa7e9ab72243049feb8deecc146b9b1
+ P = fffffffffffffffffffffffffffffffeffffffffffffffff
+P(dba295ae5cf8d62f20f3834441c405897c41cee53884d20e,
+d202f907543a83e229f1decc0f9cf9b8bf489391d46b03ec)
